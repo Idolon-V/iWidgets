@@ -1,0 +1,17 @@
+<resources>
+
+    <attr name="radius" format="dimension" />
+
+    <declare-styleable name="RoundedListView">
+        <attr name="radius" />
+    </declare-styleable>
+
+    <declare-styleable name="RoundedLinearLayout">
+        <attr name="radius" />
+    </declare-styleable>
+
+    <declare-styleable name="RoundedRadioGroup">
+        <attr name="radius" />
+    </declare-styleable>
+
+</resources>
